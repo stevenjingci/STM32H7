@@ -1,3 +1,12 @@
+cubemx配置
+串口上拉
+![alt text](image.png)
+DMA设置
+![alt text](image-1.png)
+
+开启中断
+![alt text](image-2.png)
+![alt text](image-3.png)
 ```c
 //usart.c文件 变量变为全局
 /* USER CODE BEGIN 0 */
@@ -50,9 +59,16 @@ void MX_USART1_UART_Init(void)
 
 }
 ```
-
+//主要是加入这行启动空闲中断
 ==__HAL_UART_ENABLE_IT(&huart1,UART_IT_IDLE);==
-
+```c
+//记得在usart.h文件中加入全局变量
+/* USER CODE BEGIN Private defines */
+#define RxBufferSize 1024
+extern uint8_t RxBuffer[];
+extern uint16_t RxNum;
+/* USER CODE END Private defines */
+```
 ```c
 //stm32h7xx_it.c
 void USART1_IRQHandler(void)
