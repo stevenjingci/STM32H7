@@ -1,0 +1,43 @@
+{
+  "editorVersion": "6.4.25",
+  "docType": "5",
+  "title": "Sheet1.SchDoc",
+  "description": "",
+  "colors": {},
+  "schematics": [
+    {
+      "docType": "1",
+      "title": "Sheet1.SchDoc",
+      "description": "",
+      "dataStr": {
+        "head": {
+          "docType": "1",
+          "editorVersion": "6.4.25",
+          "importedFrom": "Altium",
+          "uuid": "sheet_849586510800695",
+          "x": "45",
+          "y": "visible",
+          "portOfADImportHack": "",
+          "importFlag": 0,
+          "c_para": {},
+          "transformList": "",
+          "hasIdFlag": true,
+          "newgId": true,
+          "c_spiceCmd": null
+        },
+        "canvas": "CA~1000~1000~#FFFFFF~yes~#CCCCCC~5~1000~1000~line~5~pixel~5~0~0",
+        "shape": [
+          "LIB~280~-405~package`FPC10P-0.5MM`~~0~gge34892bf4c29d473e~~~0~~yes~yes~~~#@$T~N~230~-334.6164~0~#000080~Times New Roman~6.5pt~5~~text-after-edge~comment~SPI200M1-240x320 - FPC封装~1~start~rep2~0~#@$T~P~230~-465~0~#000080~Times New Roman~6.5pt~5~~text-after-edge~comment~LCD?~1~start~rep3~0~#@$R~230~-465~~~100~120~#4C5870~1~0~#EBEDEC~rep4~0~#@$P~show~~1~360~-435~0~rep5~0^^360~-435^^M 360 -435 h -30~#204969^^1~322~-430.5~0~3.3V~end~Times New Roman~6.5pt~#204969^^1~335~-437~0~1~start~Times New Roman~6.5pt~#204969^^0~333~-435^^0~M 330 -438 L 327 -435 L 330 -432#@$P~show~~2~360~-425~0~rep6~0^^360~-425^^M 360 -425 h -30~#000000^^1~322~-420.5~0~3.3V~end~Times New Roman~6.5pt~#000000^^1~335~-427~0~2~start~Times New Roman~6.5pt~#000000^^0~333~-425^^0~M 330 -428 L 327 -425 L 330 -422#@$P~show~~3~360~-400~0~rep7~0^^360~-400^^M 360 -400 h -30~#000000^^1~322~-395.5~0~GND~end~Times New Roman~6.5pt~#000000^^1~335~-402~0~3~start~Times New Roman~6.5pt~#000000^^0~333~-400^^0~M 330 -403 L 327 -400 L 330 -397#@$P~show~~9~200~-435~180~rep8~0^^200~-435^^M 200 -435 h 30~#000000^^1~238~-430.5~0~SPI_SCL~start~Times New Roman~6.5pt~#000000^^1~225~-437~0~9~end~Times New Roman~6.5pt~#000000^^0~227~-435^^0~M 230 -432 L 233 -435 L 230 -438#@$P~show~~8~360~-390~0~rep9~0^^360~-390^^M 360 -390 h -30~#000000^^1~322~-385.5~0~GND~end~Times New Roman~6.5pt~#000000^^1~335~-392~0~8~start~Times New Roman~6.5pt~#000000^^0~333~-390^^0~M 330 -393 L 327 -390 L 330 -387#@$P~show~~4~200~-425~180~rep10~0^^200~-425^^M 200 -425 h 30~#000000^^1~238~-420.5~0~SPI_SDA~start~Times New Roman~6.5pt~#000000^^1~225~-427~0~4~end~Times New Roman~6.5pt~#000000^^0~227~-425^^0~M 230 -422 L 233 -425 L 230 -428#@$P~show~~5~200~-415~180~rep11~0^^200~-415^^M 200 -415 h 30~#000000^^1~238~-410.5~0~SPI_CS~start~Times New Roman~6.5pt~#000000^^1~225~-417~0~5~end~Times New Roman~6.5pt~#000000^^0~227~-415^^0~M 230 -412 L 233 -415 L 230 -418#@$P~show~~6~200~-390~180~rep12~0^^200~-390^^M 200 -390 h 30~#000000^^1~238~-385.5~0~LCD_DC~start~Times New Roman~6.5pt~#000000^^1~225~-392~0~6~end~Times New Roman~6.5pt~#000000^^0~227~-390^^0~M 230 -387 L 233 -390 L 230 -393#@$P~show~~7~200~-380~180~rep13~0^^200~-380^^M 200 -380 h 30~#000000^^1~238~-375.5~0~LCD_BL~start~Times New Roman~6.5pt~#000000^^1~225~-382~0~7~end~Times New Roman~6.5pt~#000000^^0~227~-380^^0~M 230 -377 L 233 -380 L 230 -383#@$P~show~~10~360~-380~0~rep14~0^^360~-380^^M 360 -380 h -30~#000000^^1~322~-375.5~0~GND~end~Times New Roman~6.5pt~#000000^^1~335~-382~0~10~start~Times New Roman~6.5pt~#000000^^0~333~-380^^0~M 330 -383 L 327 -380 L 330 -377",
+          "LIB~280~-570~package`0`~~0~gge586bde4ed8919d65~~~0~~yes~yes~~~#@$T~N~230~-509.6164~0~#000080~Times New Roman~6.5pt~5~~text-after-edge~comment~SPI200M1-240x320 - 直插封装~1~start~rep16~0~#@$T~P~230~-630~0~#000080~Times New Roman~6.5pt~5~~text-after-edge~comment~LCD?~1~start~rep17~0~#@$R~230~-630~~~100~110~#4C5870~1~0~#FFF2CC~rep18~0~#@$P~show~~1~360~-580~0~rep19~0^^360~-580^^M 360 -580 h -30~#000000^^1~322~-575.5~0~3.3V~end~Times New Roman~6.5pt~#000000^^1~335~-582~0~1~start~Times New Roman~6.5pt~#000000^^0~333~-580^^0~M 330 -583 L 327 -580 L 330 -577#@$P~show~~2~360~-570~0~rep20~0^^360~-570^^M 360 -570 h -30~#000000^^1~322~-565.5~0~GND~end~Times New Roman~6.5pt~#000000^^1~335~-572~0~2~start~Times New Roman~6.5pt~#000000^^0~333~-570^^0~M 330 -573 L 327 -570 L 330 -567#@$P~show~~3~200~-600~180~rep21~0^^200~-600^^M 200 -600 h 30~#000000^^1~238~-595.5~0~SPI_SCL~start~Times New Roman~6.5pt~#000000^^1~225~-602~0~3~end~Times New Roman~6.5pt~#000000^^0~227~-600^^0~M 230 -597 L 233 -600 L 230 -603#@$P~show~~4~360~-560~0~rep22~0^^360~-560^^M 360 -560 h -30~#000000^^1~322~-555.5~0~GND~end~Times New Roman~6.5pt~#000000^^1~335~-562~0~4~start~Times New Roman~6.5pt~#000000^^0~333~-560^^0~M 330 -563 L 327 -560 L 330 -557#@$P~show~~5~200~-590~180~rep23~0^^200~-590^^M 200 -590 h 30~#000000^^1~238~-585.5~0~SPI_SDA~start~Times New Roman~6.5pt~#000000^^1~225~-592~0~5~end~Times New Roman~6.5pt~#000000^^0~227~-590^^0~M 230 -587 L 233 -590 L 230 -593#@$P~show~~6~200~-560~180~rep24~0^^200~-560^^M 200 -560 h 30~#000000^^1~238~-555.5~0~LCD_DC~start~Times New Roman~6.5pt~#000000^^1~225~-562~0~6~end~Times New Roman~6.5pt~#000000^^0~227~-560^^0~M 230 -557 L 233 -560 L 230 -563#@$P~show~~7~200~-580~180~rep25~0^^200~-580^^M 200 -580 h 30~#000000^^1~238~-575.5~0~SPI_CS~start~Times New Roman~6.5pt~#000000^^1~225~-582~0~7~end~Times New Roman~6.5pt~#000000^^0~227~-580^^0~M 230 -577 L 233 -580 L 230 -583#@$P~show~~8~200~-550~180~rep26~0^^200~-550^^M 200 -550 h 30~#000000^^1~238~-545.5~0~LCD_BL~start~Times New Roman~6.5pt~#000000^^1~225~-552~0~8~end~Times New Roman~6.5pt~#000000^^0~227~-550^^0~M 230 -547 L 233 -550 L 230 -553"
+        ],
+        "BBox": {
+          "x": 198.5,
+          "y": -639.8,
+          "width": 163,
+          "height": 305
+        },
+        "colors": {}
+      }
+    }
+  ]
+}
